@@ -1,0 +1,4 @@
+pandas
+pymongo
+tweepy==4.4.0
+dnspython
